@@ -29,9 +29,9 @@ Note the policy version. If a newer version of `workflow-corporate-policy-v*.md`
 ```bash
 export PATH="$PATH:$HOME/.openclaw/mission-control"
 
-MC_AGENT=<YOUR_AGENT> mc checkin
 MC_AGENT=<YOUR_AGENT> mc inbox --unread
 MC_AGENT=<YOUR_AGENT> mc list --status pending
+MC_AGENT=<YOUR_AGENT> mc checkin
 mc feed --last 10
 ```
 
