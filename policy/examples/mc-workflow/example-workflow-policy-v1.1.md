@@ -1,10 +1,10 @@
 # Workflow Policy
 
 **Version:** 1.1
-**Date:**
-**Author:** 
+**Date:** N/A
+**Author:** N/A
 **Status:** Active
-**Supersedes:** 
+**Supersedes:** v1.0
 
 ---
 
