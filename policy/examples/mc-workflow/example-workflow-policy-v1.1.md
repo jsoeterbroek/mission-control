@@ -451,6 +451,8 @@ fi
 
 ## Known Issues (from v1.0 evaluation)
 
+| # | Issue | Resolution / Status |
+|---|-------|---------------------|
 | 1 | Calendar not implemented | Tracked as pending (heartbeat task marked TBA) |
 | 2 | Approval flow was informal | Formal decision tree + ownership table added |
 
