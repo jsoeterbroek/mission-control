@@ -18,11 +18,11 @@ Read your personal `WORKFLOW.md` (workspace root) or `MEMORY.md` to confirm:
 
 ## Step 2 — Read workflow files in priority order
 
-1. `workspaces/workspace-shared/corporate/WORKFLOW.md` — always applies, read first
-2. `workspaces/workspace-shared/<DEPARTMENT>/WORKFLOW.md` — dept-specific rules
+1. `workspace-shared/corporate/WORKFLOW.md` — always applies, read first
+2. `workspace-shared/<DEPARTMENT>/WORKFLOW.md` — dept-specific rules
 3. Your personal `WORKFLOW.md` — personal exceptions only
 
-Note the policy version. If a newer version of `workflow-corporate-policy-v*.md` exists in `workspaces/workspace-shared/corporate/`, flag it.
+Note the policy version. If a newer version of `workflow-corporate-policy-v*.md` exists in `workspace-shared/corporate/`, flag it.
 
 ## Step 3 — Mission Control check-in
 
