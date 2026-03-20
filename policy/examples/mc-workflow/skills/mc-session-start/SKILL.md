@@ -27,7 +27,7 @@ Note the policy version. If a newer version of `workflow-corporate-policy-v*.md`
 ## Step 3 — Mission Control check-in
 
 ```bash
-export PATH="$PATH:/home/jsoeterbroek/.openclaw/mission-control"
+export PATH="$PATH:$HOME/.openclaw/mission-control"
 
 MC_AGENT=<YOUR_AGENT> mc checkin
 MC_AGENT=<YOUR_AGENT> mc inbox --unread
