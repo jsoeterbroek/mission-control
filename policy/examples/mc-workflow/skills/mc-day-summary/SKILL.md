@@ -19,7 +19,7 @@ Confirm from your `WORKFLOW.md` or `MEMORY.md`:
 ## Step 2 — Gather today's activity from Mission Control
 
 ```bash
-export PATH="$PATH:/home/jsoeterbroek/.openclaw/mission-control"
+export PATH="$PATH:$HOME/.openclaw/mission-control"
 
 MC_AGENT=<YOUR_AGENT> mc list --status done
 MC_AGENT=<YOUR_AGENT> mc list --status in-progress
